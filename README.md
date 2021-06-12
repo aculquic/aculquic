@@ -4,10 +4,10 @@
 </em></p>
 
 
-[![Linkedin: aculquic](https://img.shields.io/badge/-andrea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-culqui-carrascal/)](https://www.linkedin.com/in/andrea-culqui-carrascal/)
-[![GitHub aculquic](https://img.shields.io/github/followers/aculquic?label=follow&style=social)](https://github.com/aculquic)
+<p align="center">
+<a href="https://www.linkedin.com/in/andrea-culqui-carrascal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aculquic-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:acc210911@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-acc210911@gmail.com-blue?style=flat&logo=gmail"></a>
-
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -20,3 +20,6 @@ const thai = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+⭐️ From [@aculquic](https://github.com/aculquic)
