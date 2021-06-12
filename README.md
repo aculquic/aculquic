@@ -15,7 +15,7 @@
 const andrea = {
   pronouns: "she" | "her",
   languages: [Javascript, Typescript, HTML, CSS, Net, C#],
-  tools: [Angular, Redux, Node JS, Docker, Postman, Git],
+  tools: [Angular, Redux, Node, Docker, Postman, Git],
   hobbies: [Coding, Gaming, Sing, Read, Photography],
 }
 ```
