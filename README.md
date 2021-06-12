@@ -14,7 +14,7 @@
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Net],
-  tools: [Angular, Redux, Node JS, Docker, Postman]
+  tools: [Angular, Redux, Node JS, Docker, Postman, Git]
 }
 ```
 
