@@ -6,6 +6,7 @@
 
 [![Linkedin: aculquic](https://img.shields.io/badge/-andrea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-culqui-carrascal/)](https://www.linkedin.com/in/andrea-culqui-carrascal/)
 [![GitHub aculquic](https://img.shields.io/github/followers/aculquic?label=follow&style=social)](https://github.com/aculquic)
+<a href="mailto:acc210911@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-acc210911@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
