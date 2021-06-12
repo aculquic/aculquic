@@ -12,10 +12,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const andrea = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Net],
-  tools: [Angular, Redux, Node JS, Docker, Postman, Git]
+  languages: [Javascript, Typescript, HTML, CSS, Net, C#],
+  tools: [Angular, Redux, Node JS, Docker, Postman, Git],
+  hobbies: [Coding, Gaming, Sing, Read, Photography],
 }
 ```
 
