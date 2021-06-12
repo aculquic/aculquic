@@ -4,5 +4,5 @@
 </em></p>
 
 
-[![Linkedin: andrea-culqui-carrascal](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-culqui-carrascal/)](https://www.linkedin.com/in/andrea-culqui-carrascal/)
+[![Linkedin: andrea-culqui-carrascal](https://img.shields.io/badge/-andrea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-culqui-carrascal/)](https://www.linkedin.com/in/andrea-culqui-carrascal/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
