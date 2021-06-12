@@ -2,3 +2,7 @@
 
 <p><em>System Enginner at <a href="http://www.unb.br">University of Inca Garcilazo de la Vega</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Analyst at <a href="https://www.everis.com/peru/es/home-peru">Everis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
+
+
+[![Linkedin: andrea-culqui-carrascal](https://img.shields.io/badge/-andrea-culqui-carrascal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-culqui-carrascal)](https://www.linkedin.com/in/andrea-culqui-carrascal)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
